@@ -6,12 +6,13 @@ Small, standalone tools — the porch of a larger ecosystem. Each one does one j
 
 | | |
 |---|---|
+| 🎞️ [**irie-cut**](https://github.com/irie-tools/irie-cut) | A free, in-browser video editor — import, cut, layer, and export MP4 entirely client-side. Nothing leaves your machine. |
 | 🎬 [**irie-harvester**](https://github.com/irie-tools/irie-harvester) | Give it a link or a topic, it reads it and hands back the useful bits — cross-trained via swappable jobs. |
 | 📐 [**irie-contracts**](https://github.com/irie-tools/irie-contracts) | The packet contracts that let 15+ standalone apps work as one pipeline, without sharing a database or a deploy. |
 | 🧮 [**irie-calculator**](https://github.com/irie-tools/irie-calculator) | Plain HTML money calculators — no build step, no tracking. |
 | 🦞 [**claw-cockpit**](https://github.com/irie-tools/claw-cockpit) | A beginner-friendly local cockpit for OpenClaw. |
 
-More is on the way, including **Irie Cut** — a free, in-browser video editor where nothing leaves your machine.
+More is on the way.
 
 ## The idea
 
